@@ -11,9 +11,12 @@ import (
 
 func main() {
 	var rootCmd = &cobra.Command{
-		Use:   "snmp-agent",
-		Short: "SNMP Agent for Akvorado",
+		Use:     "snmp-agent",
+		Short:   "SNMP Agent for Akvorado",
+		Version: version,
 	}
+
+	rootCmd.SetVersionTemplate(versionTemplate())
 
 	rootCmd.AddCommand(run.RootCmd())
 
