@@ -1,0 +1,5 @@
+[tagpr]
+	vPrefix = true
+	releaseBranch = main
+	versionFile = cmd/snmp-agent/version.go
+	changelog = false
