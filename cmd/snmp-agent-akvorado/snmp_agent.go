@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cuteip/snmp-agent-akvorado/cmd/snmp-agent/run"
+	"github.com/cuteip/snmp-agent-akvorado/cmd/snmp-agent-akvorado/run"
 
 	"github.com/spf13/cobra"
 )
