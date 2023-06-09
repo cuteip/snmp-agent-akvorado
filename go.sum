@@ -31,6 +31,8 @@ github.com/sirupsen/logrus v1.9.0 h1:trlNQbNUG3OdDrDil03MCb1H2o9nJ1x4/5LYw7byDE0
 github.com/sirupsen/logrus v1.9.0/go.mod h1:naHLuLoDiP4jHNo9R0sCBMtWGeIprob74mVsIT4qYEQ=
 github.com/sirupsen/logrus v1.9.2 h1:oxx1eChJGI6Uks2ZC4W1zpLlVgqB8ner4EuQwV4Ik1Y=
 github.com/sirupsen/logrus v1.9.2/go.mod h1:naHLuLoDiP4jHNo9R0sCBMtWGeIprob74mVsIT4qYEQ=
+github.com/sirupsen/logrus v1.9.3 h1:dueUQJ1C2q9oE3F7wvmSGAaVtTmUizReu6fjN8uqzbQ=
+github.com/sirupsen/logrus v1.9.3/go.mod h1:naHLuLoDiP4jHNo9R0sCBMtWGeIprob74mVsIT4qYEQ=
 github.com/slayercat/GoSNMPServer v0.1.2 h1:JnKksP32zVXqUADZ0jKPCAe0qykADsUnfrztqhEzA58=
 github.com/slayercat/GoSNMPServer v0.1.2/go.mod h1:pAsvl4cV65krDY5CNy7IFDTIZ5V56nK3y3PvWOqV2IY=
 github.com/slayercat/gosnmp v1.24.0/go.mod h1:tB/loGhNgiSxOZzz02TRKKhUPUzDrGrkYQSXxD3KfqM=
