@@ -37,3 +37,7 @@ AmbientCapabilities=CAP_NET_BIND_SERVICE
 [Install]
 WantedBy=multi-user.target
 ```
+
+## その他
+
+- CuteIP Updates 2：Akvorado を利用したフロー情報の取得 - CuteIP https://www.cuteip.net/posts/2023/06/06/cuteip-updates-2/
