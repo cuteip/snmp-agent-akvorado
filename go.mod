@@ -8,7 +8,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/slayercat/GoSNMPServer v0.1.2
 	github.com/slayercat/gosnmp v1.24.1
-	github.com/spf13/cobra v1.7.0
+	github.com/spf13/cobra v1.8.0
 )
 
 require (
